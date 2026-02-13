@@ -1,12 +1,12 @@
 const gifStages = [
     "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://tenor.com/ro/view/rat-cute-cry-gif-10854706892825184307",  // 1 confused
-    "https://tenor.com/ro/view/dog-crying-meme-doggo-crys-megan-soo-crying-dog-gif-5276199764143986284",             // 2 pleading
-    "https://tenor.com/ro/view/prempdr-fc-mobile-fifa-gif-16778760554072111618",             // 3 sad
-    "https://tenor.com/ro/view/nub-cat-nub-silly-cat-depression-depressed-gif-5883714320658611738",       // 4 sadder
-    "https://tenor.com/ro/view/twitter-sad-bubu-crying-cartoon-panda-gif-13934066526162132319",             // 5 devastated
-    "https://tenor.com/ro/view/sad-mario-phone-check-walk-gif-15818126186478764678",               // 6 very devastated
-    "https://tenor.com/ro/view/的9-gif-12565004940729182637"  // 7 crying runaway
+    "https://media1.tenor.com/m/lqOqaIfUSDMAAAAd/rat-cute-cry.gif",  // 1 confused
+    "https://media1.tenor.com/m/STjTuyHNVmwAAAAd/dog-crying-meme-doggo-crys.gif",             // 2 pleading
+    "https://media1.tenor.com/m/6Noh04TN-gIAAAAd/prempdr-fc-mobile.gif",             // 3 sad
+    "https://media.tenor.com/CXd26oOq30MAAAAM/sad.gif",       // 4 sadder
+    "https://media1.tenor.com/m/wV-_rgCOHV8AAAAd/twitter-sad.gif",             // 5 devastated
+    "https://media1.tenor.com/m/24VF9WVfAoYAAAAd/sad-mario.gif",               // 6 very devastated
+    "https://media1.tenor.com/m/KFiUJSB2ndcAAAAC/cute-cat-cat.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
