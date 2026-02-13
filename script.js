@@ -3,10 +3,10 @@ const gifStages = [
     "https://tenor.com/ro/view/rat-cute-cry-gif-10854706892825184307",  // 1 confused
     "https://tenor.com/ro/view/dog-crying-meme-doggo-crys-megan-soo-crying-dog-gif-5276199764143986284",             // 2 pleading
     "https://tenor.com/ro/view/prempdr-fc-mobile-fifa-gif-16778760554072111618",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://tenor.com/ro/view/nub-cat-nub-silly-cat-depression-depressed-gif-5883714320658611738",       // 4 sadder
+    "https://tenor.com/ro/view/twitter-sad-bubu-crying-cartoon-panda-gif-13934066526162132319",             // 5 devastated
+    "https://tenor.com/ro/view/sad-mario-phone-check-walk-gif-15818126186478764678",               // 6 very devastated
+    "https://tenor.com/ro/view/的9-gif-12565004940729182637"  // 7 crying runaway
 ]
 
 const noMessages = [
@@ -16,7 +16,7 @@ const noMessages = [
     "IUBIRE TE ROGG",
     "IUBIRE.....?😢",
     "TE ROG fac oricee??? 💔",
-    "Iub te iubescc nu zi nuu...",
+    "Iub te iubescc, nu zi nuu...",
     "Ma enervezi ! 😭",
     "NU MA MAI PRINZI ACUMMM😜"
 ]
