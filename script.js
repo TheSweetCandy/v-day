@@ -1,8 +1,8 @@
 const gifStages = [
     "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
+    "https://tenor.com/ro/view/rat-cute-cry-gif-10854706892825184307",  // 1 confused
+    "https://tenor.com/ro/view/dog-crying-meme-doggo-crys-megan-soo-crying-dog-gif-5276199764143986284",             // 2 pleading
+    "https://tenor.com/ro/view/prempdr-fc-mobile-fifa-gif-16778760554072111618",             // 3 sad
     "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
     "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
     "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
